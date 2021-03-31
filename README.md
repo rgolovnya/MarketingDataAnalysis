@@ -1,7 +1,5 @@
 # Bank Marketing Data Analysis
 
-The repository contains code for Bank Marketing data analytics.
-
 ## Data
 The [data](https://archive.ics.uci.edu/ml/datasets/bank+marketing) is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
@@ -14,5 +12,10 @@ There are datasets:
 The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM). 
 
 ## Goal
-The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+Predicting the potential customers,  if the customer will subscribe (yes/no) a term deposit (variable y) (classification)
+
+
+
+
+
 
